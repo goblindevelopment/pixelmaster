@@ -29,7 +29,7 @@ Make sure .NET 7 Desktop Runtime x64 and Visual C++ Redistributable are installe
 Turn off any antivirus or Windows Defender real-time protection while installing to prevent unwanted interferences.
 Download and copy the updater.exe file inside the folder you want to install the bot, then run and wait for it to finish the downloads.
 Run the PixelMaster.exe file and wait for it to finish checking for updates.
-[img]https://github.com/goblindevelopment/pixelmaster/blob/main/Login.gif[/img]
+[img=https://github.com/goblindevelopment/pixelmaster/blob/main/Login.gif][/img]
 Login (please note that at least one active license is needed to be able to login).
 Follow the Setup guide.
 Safety notes:
