@@ -33,7 +33,7 @@ Turn off any antivirus or Windows Defender real-time protection while installing
 
 #Run the PixelMaster.exe file and wait for it to finish checking for updates.
 
-[img="https://raw.githubusercontent.com/goblindevelopment/pixelmaster/main/Login.gif"]
+<img src="https://raw.githubusercontent.com/goblindevelopment/pixelmaster/main/Login.gif">
  
 Login (please note that at least one active license is needed to be able to login).
 Follow the Setup guide.
