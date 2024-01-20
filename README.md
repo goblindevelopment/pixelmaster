@@ -23,3 +23,25 @@ Install Visual C++ Redistributable: https://aka.ms/vs/17/release/vc_redist.x64.e
 #Set your wow client language to English
 
 Autogear addon if you want to choose and equip the best quest rewards while questing.
+
+#Installation Guide:
+Make sure .NET 7 Desktop Runtime x64 and Visual C++ Redistributable are installed.
+Turn off any antivirus or Windows Defender real-time protection while installing to prevent unwanted interferences.
+Download and copy the updater.exe file inside the folder you want to install the bot, then run and wait for it to finish the downloads.
+Run the PixelMaster.exe file and wait for it to finish checking for updates.
+[img]https://github.com/goblindevelopment/pixelmaster/blob/main/Login.gif[/img]
+Login (please note that at least one active license is needed to be able to login).
+Follow the Setup guide.
+Safety notes:
+It is recommended to run the bot as the Administrator (or set the protection method 1 in the settings.) and run the wow as a normal user account.
+
+Make sure to change the addon name in the settings.
+
+After bot is updated, you can make a copy of the PixelMaster.exe and rename it and run that file instead. Please note that updater only updates PixelMaster.exe, so you will need to do this each time bot is updated.
+
+Troubleshooting:
+Make sure updater is in a folder that apps has write/create access to it or run the updater as an Administrator.
+
+Sometimes updater might encounter an error, so if it failed, run it again a few time to see if it works.
+
+When error occurs, run the updater from the Command Prompt to see the error output.
