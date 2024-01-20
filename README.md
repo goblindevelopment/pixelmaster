@@ -2,7 +2,7 @@
 Pixel Master Hybrid WoW Bot 
 
 
-#Requirements:
+<h2>Requirements:</h2>
 Windows 7 or higher.
 
 Install .NET 7 Desktop Runtime x64.
@@ -20,18 +20,18 @@ To verify the download file hasn't been corrupted, you can use the SHA512 checks
 Install Visual C++ Redistributable: https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 
-#Set your wow client language to English
+Set your wow client language to English
 
 Autogear addon if you want to choose and equip the best quest rewards while questing.
 
-#Installation Guide:
+Installation Guide:
 Make sure .NET 7 Desktop Runtime x64 and Visual C++ Redistributable are installed.
 
 Turn off any antivirus or Windows Defender real-time protection while installing to prevent unwanted interferences.
 
-#Download and copy the updater.exe file inside the folder you want to install the bot, then run and wait for it to finish the downloads.
+Download and copy the updater.exe file inside the folder you want to install the bot, then run and wait for it to finish the downloads.
 
-#Run the PixelMaster.exe file and wait for it to finish checking for updates.
+Run the PixelMaster.exe file and wait for it to finish checking for updates.
 
 <img src="https://raw.githubusercontent.com/goblindevelopment/pixelmaster/main/Login.gif">
  
